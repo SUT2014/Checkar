@@ -44,7 +44,7 @@ BW57BOF,Toyota,Yaris T2,Black,2010
 KT17DLX,Skoda,Superb Sportline Tdi S-A,White,2017
 
 
-Generated Logs...
+# Generated Logs...
 00:47:00.999 [main] DEBUG com.github.SUT2014.Checkar.chekar.Checkar - RegNos retrieved from Input File:[DN09HRM, BW57BOW, KT17DLX, SG18HTN]
 00:47:01.001 [main] DEBUG com.github.SUT2014.Checkar.chekar.Checkar - ***************************************************************************
 00:47:14.535 [main] DEBUG com.github.SUT2014.Checkar.chekar.Checkar - Checking Car RegNo: DN09HRM
