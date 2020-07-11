@@ -13,6 +13,8 @@ Typical Requirements
   - Using Car Regs from input file, retrieves Car details from well known website, in this case it is https://cartaxcheck.co.uk/
   - Retrieved results are compared against CSV file.  Field level granularity of mismatch is logged.
 
+A temp test harness package Test1 has been developed to run a typical test.  These building blocks can be easily used to include them in a typical TDD/BDD framework to run many more scenarios.
+
 Checkar has been developed using the following tools/apps:
 
 * [Java] - Core Java 
